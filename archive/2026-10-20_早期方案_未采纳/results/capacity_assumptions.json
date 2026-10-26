@@ -1,0 +1,30 @@
+{
+  "status": "ASSUMPTIONS_NOT_MEASUREMENTS",
+  "image_bytes": 28000,
+  "historical_context": "AstraPlusCar PHONE_API mentions about 28 KB preview JPEG; this project must remeasure",
+  "metadata_bytes": 512,
+  "reserved_link_fraction": 0.2,
+  "aggregate_link_mbps": [
+    2,
+    8,
+    20
+  ],
+  "host_service_ms": [
+    10,
+    30,
+    50
+  ],
+  "nodes": [
+    1,
+    3,
+    6,
+    10
+  ],
+  "fps_per_node": [
+    1,
+    2,
+    5,
+    10
+  ],
+  "queue_assumption": "M/D/1 Poisson arrivals; not a bursty Wi-Fi model"
+}

@@ -1,0 +1,142 @@
+{
+  "scope": "Deliverable integrity and planning arithmetic only; not field validation",
+  "checked_on": "2026-10-20",
+  "passed": true,
+  "checks": [
+    {
+      "name": "required_artifacts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "local_document_links_exist",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "paper_register_unique_and_complete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "paper_fields_and_read_depth",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "paper_csv_matches",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_P01",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_P06",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_P07",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_P09",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_P10",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "pdf_P14",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "six_fulltexts",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bandwidth_units_independent_example",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "unstable_queue_not_reported_as_stable",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "queue_formula_independent_example",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "bandwidth_monotonicity",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "raw_rgb_units",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "invalid_capacity_inputs_rejected",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "capacity_grid_coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "budget_independent_total",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "scenario_score_室内分区目标搜索与跨视角复核（实验室/仓储通道模型）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "scenario_score_工业设备视觉巡检（低处可见表计/指示灯）",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "scenario_score_大面积室内环境采样",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "scenario_score_灾后搜救/地下未知环境",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "scenario_score_机器人协同搬运",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "scenario_score_展示性编队/蚁群演示",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "measurement_template_has_no_fabricated_runs",
+      "passed": true,
+      "detail": ""
+    }
+  ]
+}

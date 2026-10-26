@@ -1,0 +1,1 @@
+run_id,method,seed,layout,robot_id,boot_id,task_id,frame_id,capture_time_ns,offer_time_ns,send_time_ns,receive_time_ns,infer_start_ns,infer_end_ns,result_time_ns,task_use_time_ns,payload_bytes,total_wire_bytes,clock_offset_ns,clock_error_bound_ns,drop_reason,ground_truth_target,predicted_target,correct,queue_depth,node_power_w,host_power_w,notes

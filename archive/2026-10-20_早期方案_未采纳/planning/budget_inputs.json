@@ -1,0 +1,43 @@
+{
+  "currency": "CNY",
+  "kind": "工程估算，非报价；不作采购承诺",
+  "node_items": [
+    {
+      "item": "底盘、电机、驱动",
+      "low": 250,
+      "high": 600
+    },
+    {
+      "item": "控制器与近距执行接口",
+      "low": 80,
+      "high": 200
+    },
+    {
+      "item": "视觉/无线/可选NPU板",
+      "low": 300,
+      "high": 700
+    },
+    {
+      "item": "电池、电源与充电",
+      "low": 120,
+      "high": 250
+    },
+    {
+      "item": "结构安装、线材",
+      "low": 100,
+      "high": 150
+    }
+  ],
+  "shared_low": 800,
+  "shared_high": 1800,
+  "host_reuse": 0,
+  "host_new_low": 2500,
+  "host_new_high": 5000,
+  "spare_fraction": 0.2,
+  "cash_contingency": 0.15,
+  "scales": [
+    3,
+    6,
+    10
+  ]
+}

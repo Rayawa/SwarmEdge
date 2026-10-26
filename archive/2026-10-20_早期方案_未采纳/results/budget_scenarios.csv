@@ -1,0 +1,7 @@
+﻿active_nodes,spare_nodes,host,unit_low,unit_high,subtotal_low,subtotal_high,total_low,total_high,kind
+3,1,reuse,850,1900,4200,9400,4830,10810,"planning estimate, not quotation"
+3,1,new,850,1900,6700,14400,7705,16560,"planning estimate, not quotation"
+6,2,reuse,850,1900,7600,17000,8740,19550,"planning estimate, not quotation"
+6,2,new,850,1900,10100,22000,11615,25300,"planning estimate, not quotation"
+10,2,reuse,850,1900,11000,24600,12650,28290,"planning estimate, not quotation"
+10,2,new,850,1900,13500,29600,15525,34040,"planning estimate, not quotation"

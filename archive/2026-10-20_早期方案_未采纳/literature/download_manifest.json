@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P01",
+    "version": "2205.09778v3",
+    "url": "https://arxiv.org/pdf/2205.09778v3",
+    "retrieved_on": "2026-10-20",
+    "status": "downloaded",
+    "file": "literature/pdfs/P01_2205.09778v3.pdf",
+    "bytes": 4417038,
+    "sha256": "32f01c166a7c67141cdd961bedca63184bbe89d7e988073d3e3938fbeae0e7fe"
+  },
+  {
+    "id": "P06",
+    "version": "2209.12836v1",
+    "url": "https://arxiv.org/pdf/2209.12836v1",
+    "retrieved_on": "2026-10-20",
+    "status": "downloaded",
+    "file": "literature/pdfs/P06_2209.12836v1.pdf",
+    "bytes": 8335379,
+    "sha256": "cc39cbe0d09cd2031dd46d5f17a4a0c6adc2f7373d6e3c90d4b2d12cc3168834"
+  },
+  {
+    "id": "P07",
+    "version": "2409.09975v2",
+    "url": "https://arxiv.org/pdf/2409.09975v2",
+    "retrieved_on": "2026-10-20",
+    "status": "downloaded",
+    "file": "literature/pdfs/P07_2409.09975v2.pdf",
+    "bytes": 2002595,
+    "sha256": "bdd9abcad496af27e8a8af00fbea2e546db948f3db488a2c514195bab46c2819"
+  },
+  {
+    "id": "P09",
+    "version": "2609.12502v1",
+    "url": "https://arxiv.org/pdf/2609.12502v1",
+    "retrieved_on": "2026-10-20",
+    "status": "downloaded",
+    "file": "literature/pdfs/P09_2609.12502v1.pdf",
+    "bytes": 2713595,
+    "sha256": "6779b37ffd78f50b2a6492cd87050d7ae5f0450a6c9377cb0345ee1dafadcd82"
+  },
+  {
+    "id": "P10",
+    "version": "2508.07657v2",
+    "url": "https://arxiv.org/pdf/2508.07657v2",
+    "retrieved_on": "2026-10-20",
+    "status": "downloaded",
+    "file": "literature/pdfs/P10_2508.07657v2.pdf",
+    "bytes": 11739603,
+    "sha256": "bc00b016f7552588b2ed6791273fc61e41ae8e3178a3a250e82f7cc6b3edaa1a"
+  },
+  {
+    "id": "P14",
+    "version": "2610.15966v1",
+    "url": "https://arxiv.org/pdf/2610.15966v1",
+    "retrieved_on": "2026-10-20",
+    "status": "downloaded",
+    "file": "literature/pdfs/P14_2610.15966v1.pdf",
+    "bytes": 984045,
+    "sha256": "ed0737f8f18fa3a0e066b57fc2faae6c2ed3e72d2d864b1249e400cbcb428f86"
+  }
+]
